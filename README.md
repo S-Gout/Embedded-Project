@@ -12,7 +12,7 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 |--------|-----------|-------|
 |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/b7613e3f-2e0e-4e0f-bec6-f3d7af879f5a" />|  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/6084ef9e-3099-4577-ae24-1812e2cc184b" />| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/61a7e4e8-f2c3-4df7-ba17-a27e05a71753" /> |
 
-\+ able to detect voice command, you can said "Hey Open" / "Hey Closed" to open & close the air purifier
+\+ able to detect voice command, you can say "Hey Open" / "Hey Closed" to open & close the air purifier
 
 ### Diagrams
 
