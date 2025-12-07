@@ -20,7 +20,7 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 ### Documents
 - [report](https://github.com/S-Gout/Embedded-Project/blob/81b175b5dca9e00979cf876bf0b5b3ad29dbfbb7/Documents/sGout_embeddedReport.pdf)
 - [presentation]()
-- [vdo]()
+- [vdo](https://www.youtube.com/watch?v=zh7Ymkc0MkU)
 
 ### Preview
 
