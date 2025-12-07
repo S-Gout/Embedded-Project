@@ -31,9 +31,9 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 - [vdo](https://www.youtube.com/watch?v=zh7Ymkc0MkU)
 
 ## Contributors
-- Penpitcha P.  [incluDna](https://github.com/incluDna) `PM`<> 
-- Walaiphan Tr.  [Rwtri17](https://github.com/Rwtri17)  `Dashboard`<> 
-- Sujin R.  [HedYangg](https://github.com/HedYangg)  `code`<> 
-- Aitsayaphan L. [gincole](https://github.com/gincole)  `ai voice command` <>
-- Chanudom T.  [MrDominicz](https://github.com/MrDominicz) `sys arch + wiring` <>
+- Penpitcha P.    `PM + sys arch/wiring + build + report` 
+- Walaiphan Tr.   `sensor code + dashboard + blynk_noti + firebase`
+- Sujin R.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `sensor+gateway code`
+- Aitsayaphan L.  `ai voice command + dashboard`
+- Chanudom T.     `sys arch/wiring + build + report/vdo` 
 
