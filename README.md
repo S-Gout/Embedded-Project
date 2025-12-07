@@ -16,29 +16,13 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 
 ### Diagrams
 
-<table>
-  <tr>
-    <td valign="center">
-      Architecture diagram
-    </td>
-    <td valign="center">
-       <img src="https://github.com/user-attachments/assets/2f894a3a-a81d-47ae-a424-dffe2b1118ff" width="500" height="400">
-    </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      Wiring diagram
-    </td>
-    <td valign="center">
-       <img src="https://github.com/user-attachments/assets/4c011cb7-45f3-4444-9234-ce7960074e50" width="500" height="400">
-    </td>
-  </tr>
-</table>
+[Architecture diagram](https://github.com/incluDna/Smart_Air_Purifier_System/blob/59b41ede8456dd95238ddcdea43af9c9cacfce71/Documents/Diagram/architect_airpure_diagram.png) | 
+[Wiring diagram](https://github.com/incluDna/Smart_Air_Purifier_System/blob/59b41ede8456dd95238ddcdea43af9c9cacfce71/Documents/Diagram/wiring_airpure_diagram.png)
 
 ### Dashboard & Analytics
 
-  <img width="500" height="664" alt="dashboard" src="https://github.com/user-attachments/assets/d3180539-43b0-4aad-b05e-5d8eef21651f" />
-  <img width="190" height="190" alt="analyse" src="https://github.com/user-attachments/assets/8ab27ee7-de65-41a0-b5c2-9178ef41bb84" />
+[Dashboard](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/dashboard_airpure.png) | 
+[Analytics](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/analytics_airpure.png)
 
 
 ### Documents
