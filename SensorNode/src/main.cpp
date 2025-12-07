@@ -10,7 +10,7 @@
 uint8_t gatewayMac[] = { 0x28, 0x56, 0x2F, 0x49, 0xCD, 0xE4 };
 
 // ======== WiFi/ESP-NOW must be same channel as gateway ========
-#define GATEWAY_CHANNEL 1   // <--- SET THIS TO YOUR GATEWAY'S WIFI CHANNEL
+#define GATEWAY_CHANNEL 6   // <--- SET THIS TO YOUR GATEWAY'S WIFI CHANNEL
 
 // ======== DATA STRUCT (MATCH Gateway) ========
 typedef struct {

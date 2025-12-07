@@ -28,7 +28,7 @@ void sendToFirebase(float pm25, float humidity, float temperature, float gas) {
   payload += "\"pm25\":" + String(pm25, 2) + ",";
   payload += "\"humidity\":" + String(humidity, 2) + ",";
   payload += "\"temperature\":" + String(temperature, 2) + ",";
-  payload += "\"gas\":" + String(gas, 2) + ","
+  payload += "\"gas\":" + String(gas, 2) + ",";
   payload += "\"status\":\"" + statusStr + "\"";
   payload += "}";
 
@@ -56,7 +56,7 @@ void pushHistory(float pm25, float humidity, float temperature, float gas) {
   payload += "\"pm25\":" + String(pm25, 2) + ",";
   payload += "\"humidity\":" + String(humidity, 2) + ",";
   payload += "\"temperature\":" + String(temperature, 2) + ",";
-  payload += "\"gas\":" + String(gas, 2) + ","
+  payload += "\"gas\":" + String(gas, 2) + ",";
   payload += "\"status\":\"" + statusStr + "\",";
   payload += "\"timestamp\":" + String(ts);
   payload += "}";

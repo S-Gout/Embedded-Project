@@ -311,7 +311,7 @@ void loop() {
 
   // 4) Firebase upload only after first ESP-NOW data
   if (hasSensorData) {
-    sendToFirebase(lastPkt.pm25, lastPkt.humid, temp, lastPkt.gas,);
+    sendToFirebase(lastPkt.pm25, lastPkt.humid, temp, lastPkt.gas);
 
     if (millis() - lastHistory > historyInterval) {
       lastHistory = millis();
