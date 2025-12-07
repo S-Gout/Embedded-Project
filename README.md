@@ -21,9 +21,13 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 
 ### Dashboard & Analytics
 
-[Dashboard](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/dashboard_airpure.png) | 
-[Analytics](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/analytics_airpure.png)
+[Dashboard](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/dashboard_airpure.png) |
+[Analytics](https://github.com/incluDna/Smart_Air_Purifier_System/blob/1d3c350f0c00d1a0647c9204cd6d403730b6b261/Documents/Dashboard_img/analytics_airpure.png) 
 
+### Source code
+[Sensor](https://github.com/S-Gout/Embedded-Project/tree/f87b149fbe89784e86a47d1b1ca01c8356900ccb/SensorNode) |
+[Gateway](https://github.com/S-Gout/Embedded-Project/tree/f87b149fbe89784e86a47d1b1ca01c8356900ccb/Gateway) |
+[Dashboard](https://github.com/S-Gout/Embedded-Project/tree/f87b149fbe89784e86a47d1b1ca01c8356900ccb/Dashboard)
 
 ### Documents
 - [report](https://github.com/S-Gout/Embedded-Project/blob/81b175b5dca9e00979cf876bf0b5b3ad29dbfbb7/Documents/sGout_embeddedReport.pdf)
