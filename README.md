@@ -35,10 +35,11 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
   </tr>
 </table>
 
-### Dashboard
+### Dashboard & Analytics
 
-  <img width="500" height="664" alt="image" src="https://github.com/user-attachments/assets/d3180539-43b0-4aad-b05e-5d8eef21651f" />
-  <img width="500" height="747" alt="image" src="https://github.com/user-attachments/assets/4c7276b2-2b6b-4556-bb78-ccb0bc223498" />
+  <img width="500" height="664" alt="dashboard" src="https://github.com/user-attachments/assets/d3180539-43b0-4aad-b05e-5d8eef21651f" />
+  <img width="190" height="190" alt="analyse" src="https://github.com/user-attachments/assets/8ab27ee7-de65-41a0-b5c2-9178ef41bb84" />
+
 
 ### Documents
 - [report](https://github.com/S-Gout/Embedded-Project/blob/81b175b5dca9e00979cf876bf0b5b3ad29dbfbb7/Documents/sGout_embeddedReport.pdf)
